@@ -203,7 +203,7 @@ section .title::after {
 .features .title::after,
 .contributors .title::after {
   background: #121212;
-  content: "i can do a lot ><"
+  content: "OMG I Love Loli Features"
 }
 .features .features-content, 
 .stats .stats-content {
@@ -314,19 +314,19 @@ section .title::after {
   color: #121212;
   border: none;
 }
-.badges.supporter {
-  background: #ff1476;
+.badges.mod {
+  background: #cfdb65;
   color: #121212;
 }
 .badges.designer {
   background: #00ff0d;
 }
-.badges.helper {
+.badges.admin {
   background: #7289DA;
   color: #222;
 }
 .badges.lolicon {
-  background: #f30606;
+  background: #be6fe2;
   color: #222;
 }
 
